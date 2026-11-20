@@ -7,7 +7,7 @@
 - Image: news.png, 1024×1024, 172,823 bytes,
   sha256 f153a675f5aa6fa32d9169beb74dcd8f8452d4efd5787e2315b6ae07b21b87a9.
   36 verified stories, 6 continents, world map, source line.
-- Repo: https://github.com/Ci3hu1/news-image-20261120 (commit: see below)
+- Repo: https://github.com/Ci3hu1/news-image-20261120 — commit 136936bc1206a02836fa223a90b22f6bdd68b007
 
 ## Top-10 study (live, 20 Nov ~08:05 WIB; 320 judged)
 | Rank | Handle | Score | Title |
