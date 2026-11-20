@@ -46,3 +46,8 @@ source footer, 36 stories.
 - Live score: —
 - Live rank: —
 - Submission id: —
+
+## Submit — 20 Nov 2026 ~10:18 WIB (Joni 'Setuju')
+- Submission 01a1f6f6-c655-70bd-91e9-d0cb9f96921d, round 1, stage "checked" (all visible checks pass: account_wallet, competition_open, quota, form, entry_signature, repo_owner, repo_public...).
+- Claim code saved ONLY in ~/.config/makefun/news-image-20261120-submission.json (0600).
+- Live 20 Nov ~10:20 WIB: 952 entries total; scores not yet assigned (None across top 10) — grading pending. Re-check live score/rank later.
